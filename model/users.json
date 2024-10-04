@@ -1,0 +1,30 @@
+[
+    {
+    "username":"walt2",
+    "roles":{
+        "User":2001,
+        "Editor":1984,
+        "Admin":5150
+    }, 
+    "passowrd":"12345678",
+    "refreshToken":"5c75f7b0c1045ecb7783e52cce5507e94c3c213b0255eaa5558bb026559025ffcd133577e4412eb87a0ba2eea0cab6dc41198eaa2218cf7ead06a812c9df0a26"
+    },
+    {
+    "username":"walt1", 
+    "roles":{
+        "User":2001
+    },
+    "passowrd":"12345678",
+    "refreshToken":"5c75f7b0c1045ecb7783e52cce5507e94c3c213b0255eaa5558bb026559025ffcd133577e4412eb87a0ba2eea0cab6dc41198eaa2218cf7ead06a812c9df0a26"
+    },
+    {
+        "username":"walt1", 
+        "roles":{
+            "User":2001,
+            "Editor":1984
+        },
+        "passowrd":"12345678",
+        "refreshToken":"5c75f7b0c1045ecb7783e52cce5507e94c3c213b0255eaa5558bb026559025ffcd133577e4412eb87a0ba2eea0cab6dc41198eaa2218cf7ead06a812c9df0a26"
+        }
+
+]
